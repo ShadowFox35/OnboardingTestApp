@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Onboarding app</string>
+
+    <!-- Common -->
+    <string name="text_hint_email">Email</string>
+    <!-- Common -->
+
+    <!-- Registration screen -->
+    <string name="registration_screen_button">Continue</string>
+    <string name="registration_screen_app_bar_title">Personal Details</string>
+    <string name="registration_screen_hint_birth">Date of birth(dd/mm/yyyy)</string>
+    <string name="registration_screen_hint_password">Password</string>
+    <string name="registration_screen_hint_confirm">Confirm password</string>
+    <string name="registration_screen_error_text">Fill all fields, please!</string>
+    <string name="registration_screen_invalid_email">Invalid email</string>
+    <!-- Registration screen -->
+
+    <!-- Otp screen -->
+    <string name="otp_screen_app_bar_title">Confirmation code sent\nto your email</string>
+    <string name="otp_screen_button">Confirm</string>
+    <!-- Otp screen -->
+
+    <!-- Otp bottom sheet result -->
+    <string name="otp_bottom_sheet_result_success">Success</string>
+    <string name="otp_bottom_sheet_result_error">Error</string>
+    <string name="otp_bottom_sheet_result_button">Done</string>
+    <!-- Otp bottom sheet result -->
+</resources>

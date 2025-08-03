@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/otp_container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@android:color/transparent"
+    android:gravity="center"
+    android:orientation="horizontal"
+    app:layout_constraintTop_toBottomOf="@id/email_view">
+
+    <EditText
+        android:id="@+id/otp_1"
+        style="@style/OtpBoxStyle" />
+
+    <EditText
+        android:id="@+id/otp_2"
+        style="@style/OtpBoxStyle" />
+
+    <EditText
+        android:id="@+id/otp_3"
+        style="@style/OtpBoxStyle" />
+
+    <EditText
+        android:id="@+id/otp_4"
+        style="@style/OtpBoxStyle" />
+
+    <EditText
+        android:id="@+id/otp_5"
+        style="@style/OtpBoxStyle" />
+
+    <EditText
+        android:id="@+id/otp_6"
+        style="@style/OtpBoxStyle" />
+</LinearLayout>
